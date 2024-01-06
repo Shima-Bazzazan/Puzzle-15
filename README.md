@@ -13,9 +13,9 @@
 ​
 ## How to install
 Run following command :
-
+```
 pip install -r requirements.txt
-
+```
 ## How to Run
 execute this command in terminal:
 python main.py
